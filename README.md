@@ -1,4 +1,4 @@
-# A WordPress plugin that works with Woocommer
+# A WordPress plugin that works with Woocommerce
 This plugin is for user registration using a unique code. Customer will be given code during purchase in hand and after that he/she will come to website and register/login
 then from the my-account page, 'activation menu, will register the item he/she bought. After successfull registration customer will be able to download a certificate 
 on the fly. 
