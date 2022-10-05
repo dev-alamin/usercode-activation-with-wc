@@ -22,8 +22,6 @@
  * Prefix:      BBG
  */
 
-use Automattic\WooCommerce\Blocks\BlockTypes\EmptyCartBlock;
-
 defined('ABSPATH') || die('No script kiddies please!');
 
 define('BBG_VERSION', 'BbgUrActivation');
